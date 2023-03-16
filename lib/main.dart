@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.light().copyWith(
         colorScheme: ColorScheme.fromSwatch().copyWith(
           // change the appbar color
-          primary: Color(0xFF0E67B4),
+          primary: Color(0xFF0E67B2),
         ),
       ),
       home: ScanQrPage(),
